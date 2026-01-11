@@ -1,0 +1,8 @@
+# STEP 1: Provider Adapter
+requests>=2.31.0
+
+# STEP 3: Raw Ingestion Pipeline
+pymysql>=1.1.0
+python-dotenv>=1.0.0
+pytz>=2023.3
+
